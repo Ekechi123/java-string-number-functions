@@ -1,10 +1,10 @@
-import java.lang.*;  // Explicitly importing java.lang package
+import java.lang.*;  // Explicitly importing java.lang package (although it's not necessary, since java.lang is imported by default)
 
 public class TestFunctions {
 
     /**
      * Main method to test the functionality of the Functions class.
-     * It tests:
+     * It tests the following functions:
      * 1. getEvenNumbers()
      * 2. toUpperCase()
      * 3. findLongestString()
@@ -64,4 +64,3 @@ public class TestFunctions {
         System.out.println("Awoke from sleep!");  // Print a message after waking up from sleep
     }
 }
-
