@@ -23,4 +23,3 @@ public class TestFunctions {
         System.out.println("Longest string: " + longestString);
     }
 }
-
