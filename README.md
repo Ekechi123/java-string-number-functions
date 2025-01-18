@@ -1,15 +1,27 @@
-## Overview
-This project implements utility functions in Java to practice basic concepts like arrays, strings, and functions. It emphasizes test-driven development (TDD), documentation, and version control.
-Functions
-getEvenNumbers(int[] numbers)
-Returns a new array containing all the even numbers from the input array.
-toUpperCase(String input)
-Converts the input string to uppercase.
-findLongestString(String[] strings)
-Returns the longest string from the input array.
-findMax(int a, int b)
-Returns the larger of two integers.
-reverseString(String input)
-Reverses the given input string.
-sleepForSeconds(int seconds)
-Pauses execution for the specified number of seconds.
+# OverView 
+
+This project provides a set of utility functions for various common tasks, including:
+
+- Extracting even numbers from an array
+- Converting a string to uppercase
+- Finding the longest string in a list
+- Returning the maximum of two integers
+- Reversing a string
+- Pausing the program for a specified duration
+
+## Features
+
+- ✅ Get even numbers from an array
+- 🔠 Convert strings to uppercase
+- 🏆 Find the longest string in a list
+- ➕ Find the maximum of two integers
+- 🔄 Reverse a string
+- ⏳ Pause the program for a specified time
+
+## How to Use
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/your-repository.git
+cd your-repository
