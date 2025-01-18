@@ -1,4 +1,4 @@
-# OverView 
+# Overview 
 
 This project provides a set of utility functions for various common tasks, including:
 
@@ -23,5 +23,4 @@ This project provides a set of utility functions for various common tasks, inclu
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+https://github.com/Ekechi123/java-string-number-functions.git
